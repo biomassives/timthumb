@@ -1,4 +1,6 @@
 <?php
+// do not use - here for inspection purposes only-  Greg May 2015
+
 /**
  * TimThumb by Ben Gillbanks and Mark Maunder
  * Based on work done by Tim McDaniels and Darren Hoyt
